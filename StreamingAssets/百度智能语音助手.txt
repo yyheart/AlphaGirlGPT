@@ -1,0 +1,7 @@
+语音技术API Key:ijOO7KGpogkZYPfh6L5DK8rB
+语音技术Secret Key:Dj1rVAcjmGt5EN6xqxGGA8l2fc5fDTuH
+智能对话UNITAPI Key:bMH0tRWPgEghYch5NqDvQWMW
+智能对话UNITSecret Key:rRA4Djwvjjd3CIz3RrcAEAHe0GgQQ130
+我的机器人ID:S84966
+文心千帆APIKey:x83UuBuid0PoT9uaOhrYvKFk
+文心千帆SecretKey:GnuvwkS3wp6oWHpYMjFg7X1RLGsifEV2

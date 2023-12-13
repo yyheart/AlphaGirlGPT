@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a59770eaa439cf94d8bc63d53080c124
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BGMSound: {fileID: 8300000, guid: 78e92ae878da4464a951eab6a3adbb75, type: 3}
+  - HoverSound: {instanceID: 0}
+  - ClickSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
